@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-info-change {
+    background-color: rgba(38, 70, 83, 1);
+}
+
+.title {
+    font-size: 4em;
+}
+
+.text-color {
+    color: white;
+}
+
+
+
+.navbar-spaces {
+    padding-right: 100px;
+}
+
+.btn-space {
+    margin-right: 300px;
+}
+
+.grayscale img {
+    filter: grayscale(100%);
+}
+
+.photo img {
+    padding: 18px;
+}
+
+.fa-star {
+    color: coral;
+}
+
+.font-weight {
+    font-weight: 3em;
+}
+
+.accordion-color {
+    color: gray;
+}
+
+.about-iteam {
+    text-decoration: none;
+}
+
+.btn-warning-change {
+    background-color: rgba(231, 111, 81, 1);
+    color: white;
+    padding: 5px 20px;
+}
+
+.text-warning-change {
+    color: rgba(231, 111, 81, 1);
+}
